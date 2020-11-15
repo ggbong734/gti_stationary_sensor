@@ -2,7 +2,7 @@
 
 Project completed under the Operations Technology Development branch of [Gas Technology Institute](hhttps://www.gti.energy/). The title of the project is "Evaluation of Stationary Continuous Methane Monitoring System". The data analysis involves processing one year worth of sensor time series data (data collection rate of 6 sec) for multiple sensors and comparing their perfrormances.
 
-<p align="center"><img src="images/gti_logo.jpg" height= "200"/></p>
+<p align="center"><img src="images/gti_logo.jpg" height= "85"/></p>
 
 ### Objective 
 The objective of this project is to evaluate, and field demonstrate new and advanced stationary continuous methane monitoring systems for potential use at natural gas facilities. 
@@ -15,11 +15,11 @@ Many different types of methane sensors are available for natural gas leak detec
 
 Four stationary sensor technologies were selected for evaluation. Two of the sensors (Sensit and Heath) were ranged open-path sensors which continuously shoots a beam of infrared laser and interrogates methane concentration along its path. One sensor (Quanta3) was an insitu point sensor which requires emissions to drift into its cavity for detection making it extremely reliant on wind direction. The last sensor (Gazomat) was a point sensor with a pump connected to a set of sampling lines that draw air directly in from the station.
 
-![Four sensors](images/four_technologies.png)
+<p align="center"><img src="images/four_technologies.png"/></p>
 
 The 4 selected technologies were installed at a metering and regulation station at a host utility company with the following configuration. The two parallel cylindrical stuctures in the bright red box are the assets that could potentially emit natural gas. They consist of valves, regulators, flanges, sensing lines, among other components.
 
-![Sensor configuration](images/sensor_configuration.jpg)
+<p align="center"><img src="images/four_technologies.png" height = "350"/></p>
 
 ### Protocol
 
