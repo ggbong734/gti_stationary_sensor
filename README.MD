@@ -39,8 +39,8 @@ To assess performance of the multiple sensors, we need to define a quantifiable 
 An **indication** is defined as a 2-minute period when at least one reading is above 2x background level. **Area under curve** (AUC) is the sum of area under the curve that are above the background level. Here are illustrations of how the number of indications and area under the curve (AUC) can be quantified:
 
 <p align="center">
-	<img src="images/indication.png" height = "270"/>
-	<img src="images/auc.png" height = "270"/>
+	<img src="images/indication.png" height = "300"/>
+	<img src="images/auc.png" height = "300"/>
 </p>
 
 ### Results
@@ -53,13 +53,13 @@ The cumulative number of indications and AUC values were calculated for each sen
 
 The number of indications produced at varying flow rates can be visualized. There is not a a lot of difference across flowrates as the sensors were capable of producing indications across the range of flow rates. 
 
-<p align="center"><img src="images/indications_flowrate.png" height = "260"/></p>
+<p align="center"><img src="images/indications_flowrate.png" height = "270"/></p>
 
 The number of indications can be further broken down by wind speed and direction categories. It can be observed that Southerly wind directions and high wind speed promote better detection by sensors. This makes sense as the sensors are positioned north of the station and stronger wind would advect gas towards the sensor. 
 
 <p align="center">
-	<img src="images/indications_windspeed.png" height = "410"/>
-	<img src="images/indications_winddirection.png" height = "410"/>
+	<img src="images/indications_windspeed.png" height = "405"/>
+	<img src="images/indications_winddirection.png" height = "405"/>
 </p>
 
 Based on the bar charts, we can observe that in situ point sensors are more dependent on wind direction than ranged sensors which constantly interrogates the methane concentration along its laser path.
@@ -70,13 +70,13 @@ The correlation between number of indications and wind speed can also be plotted
 
 Similar to the set of charts above, the relationship between AUC scores at varying flow rates can be visualized:
 
-<p align="center"><img src="images/auc_flowrate.png" height = "260"/></p>
+<p align="center"><img src="images/auc_flowrate.png" height = "270"/></p>
 
 The impact of wind speed and direction on AUC can be explored in the following charts:
 
 <p align="center">
-	<img src="images/auc_windspeed.png" height = "410"/>
-	<img src="images/auc_winddirection.png" height = "410"/>
+	<img src="images/auc_windspeed.png" height = "405"/>
+	<img src="images/auc_winddirection.png" height = "405"/>
 </p>
 
 And then the relationship between AUC scores and wind speed can be plotted for each sensor:
