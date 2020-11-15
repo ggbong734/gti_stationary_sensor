@@ -19,7 +19,7 @@ Four stationary sensor technologies were selected for evaluation. Two of the sen
 
 The 4 selected technologies were installed at a metering and regulation station at a host utility company with the following configuration. The two parallel cylindrical stuctures in the bright red box are the assets that could potentially emit natural gas. They consist of valves, regulators, flanges, sensing lines, among other components.
 
-<p align="center"><img src="images/four_technologies.png" height = "350"/></p>
+<p align="center"><img src="images/sensor_configuration.png" height = "350"/></p>
 
 ### Protocol
 
